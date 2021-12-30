@@ -4,6 +4,7 @@ Welcome to the Samoborček Vozni Red app for Android!
 
 This is an Android app developed by Antonio Maletić. The app is also available on Google Play.
 
+Camera permission is required for application to work, but Camera is never used.
 I have not programmed this app to collect any data.
 
 If you find any security vulnerability that has been inadvertently caused by me, please send me an email and I will surely try to fix it/help you.
